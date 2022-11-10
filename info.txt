@@ -1,1 +1,2 @@
-i am learning git 
+i am learning git
+I am learning git part 2nd
